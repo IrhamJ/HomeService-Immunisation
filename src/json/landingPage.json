@@ -1,0 +1,159 @@
+{
+    "service" : [
+        {
+            "title": "Dokter Konsultasi Vaksinasi",
+            "imageUrl": "assets/images/Web.png"
+        },
+        {
+            "title": "Asisten Dokter",
+            "imageUrl": "assets/images/Mobile.png"
+        },
+        {
+            "title": "Marketing",
+            "imageUrl": "assets/images/Design.png"
+        }
+    ],
+    "portfolio" : [
+        {
+            "id": "asd1293uasdads1",
+            "title": "Anak Usia 0-1 tahun",
+            "imageUrl": "assets/images/Recruiting.jpg",
+            "type": "BCG, HB, Polio",
+            "responsibility": [
+            ],
+            "credit": "https://dribbble.com/shots/15164950-Recruiting-app"
+        },
+        {
+            "id": "asd1293uhjkhkjh2",
+            "title": "Anak Usia 2-6 Tahun",
+            "imageUrl": "assets/images/Stream.jpg",
+            "type": "Hepatitis,Difteri",
+            "responsibility": [
+            ],
+            "credit": "https://dribbble.com/shots/15276430-Stream"
+        },
+        {
+            "id": "asd1293uvbvcbbd3",
+            "title": "Anak Usia 7-12 tahun",
+            "imageUrl": "assets/images/Freelance.jpg",
+            "type": "Influenza",
+            "responsibility": [
+            ],
+            "credit": "https://dribbble.com/shots/15223131-Freelance-Mobile-App-Concept"
+        },
+        {
+            "id": "asd1293ufgdfgs4",
+            "title": "Remaja Usia 13-18 Tahun",
+            "imageUrl": "assets/images/Aura.jpg",
+            "type": "HPV",
+            "responsibility": [
+            ],
+            "credit": "https://dribbble.com/shots/15176338-Aura-Website-Main-Page"            
+        },
+        {
+            "id": "asd1293ulskmnb5",
+            "title": "Dewasa",
+            "imageUrl": "assets/images/Surtido.jpg",
+            "type": "TDAP",
+            "responsibility": [
+            ],
+            "credit": "https://dribbble.com/shots/15173118-Surtido-Rico"
+        },
+        {
+            "id": "asd1293ulkmnbj6",
+            "title": "Lansia",
+            "imageUrl": "assets/images/ManagementApp.jpg",
+            "type": "PVC",
+            "responsibility": [
+            ],
+            "credit": "https://dribbble.com/shots/15197890-Courses-Management-and-Promoting-Web-App"
+        }
+    ],
+    "advantage": [
+        [{
+            "title": "Cipanas",
+            "imageUrl": "assets/images/Management.png"
+        },
+        {
+            "title": "Cianjur",
+            "imageUrl": "assets/images/Management.png"
+        }],
+        [{
+            "title": "Cugenang​",
+            "imageUrl": "assets/images/Collaborative.png"
+        },
+        {
+            "title": "Ciranjang",
+            "imageUrl": "assets/images/Favourite.png"
+        }],
+        [{
+            "title": "Pacet",
+            "imageUrl": "assets/images/Management.png"
+        },
+        {
+            "title": "Sukaresmi",
+            "imageUrl": "assets/images/Management.png"
+        }]
+    ],
+    "testimonial": [
+        {
+            "name": "Imunisasi Polio untuk Anak Berkebutuhan Khusus",
+            "company": "21 November 2022",
+            "testimoni": "Baca Selengkapnya" 
+            
+        },
+        {
+            "name": "Yuk Vaksin Booster Jelang Akhir Tahun",
+            "company": "01 Desember 2022",
+            "testimoni":  "Baca Selengkapnya" 
+        },
+        {
+            "name": "Cacar Monyet, Kenali dan Cegah Bersama",
+            "company": "29 November 2022",
+            "testimoni":  "Baca Selengkapnya" 
+        }
+    ],
+    "team": [
+        {
+            "name": "dr. H. Dharmawan Setiabudhi Dahlan, MARS",
+            "position": "Direktur",
+            "imageUrl": "assets/images/CEO.jpeg"
+        },
+        {
+            "name": "dr. Hj. Neneng Efa Fatimah, M.H., M.Kes",
+            "position": "wakil Direktur",
+            "imageUrl": "assets/images/HRD.jpeg"
+        },
+        {
+            "name": "dr. H. Cecep Juhana, M.K.M",
+            "position": "Pengelola",
+            "imageUrl": "assets/images/Finance.jpeg"
+        },
+        {
+            "name": "dr. Sanny Sanjaya, MH.Kes",
+            "position": "Dokter",
+            "imageUrl": "assets/images/project-manager.jpeg"
+        },
+        {
+            "name": "Dr. Nuning Nurvita Rahayu",
+            "position": "Dokter",
+            "imageUrl": "assets/images/Frontend1.jpeg"
+        },
+        {
+            "name": "Aan Rohanah SKM",
+            "position": "Marketing",
+            "imageUrl": "assets/images/Frontend2.jpeg"
+        },
+        {
+            "name": "Ahyar Mulyanan S.Kep, Ners, M.Kep",
+            "position": "Kepala Asisten Dokter",
+            "imageUrl": "assets/images/Backend1.jpeg"
+        },
+        {
+            "name": "Iwan Setiawan S.Kep",
+            "position": "Asisten Dokter",
+            "imageUrl": "assets/images/Backend2.jpeg"
+        }
+       
+    ]
+}
