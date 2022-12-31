@@ -1,6 +1,3 @@
-# Racx Studio
-![alt text](https://github.com/racmathafidz/racxstudio/blob/master/src/assets/images/screely.png)
-
 ### About
 A software house profile website built with ReactJS and TailwindCSS:computer:
 
@@ -17,10 +14,7 @@ A software house profile website built with ReactJS and TailwindCSS:computer:
 - [**React Reveal**](https://www.react-reveal.com/) : Animation 
 - [**React Tabs**](https://www.npmjs.com/package/react-tabs) : Tab component
 - [**React Toastify**](https://www.npmjs.com/package/react-toastify) : Toast notification 
-- [**ESLint**](https://eslint.org/) : Linting and formatting
-
-### Demo
-**Demo :** https://racxstudio.netlify.app/
+- [**ESLint**](https://eslint.org/) : Linting
 
 ### Available Scripts
 
